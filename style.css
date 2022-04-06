@@ -1,0 +1,11 @@
+nav.menu {
+    background-color: transparent;
+}
+
+.fondo {
+    background-image: url(img/bg-1.jpg);
+    background-size: cover;
+    background-position: top center;
+    padding: 20% 50% 20% 2%;
+    color: rgb(145, 255, 255);
+}
